@@ -22,6 +22,9 @@ public class Main {
         System.out.println("what is your name?");
         name = keyboard.nextLine();
         System.out.println("what is your height only in (inches)?");
+        inches = keyboard.nextInt();
+        meter = inches *(0.02456f);
+
 
 
 
