@@ -20,6 +20,10 @@ public class Main {
         keyboard = new Scanner(System.in);
 
         System.out.println("what is your name?");
+        name = keyboard.nextLine();
+        
+
+
 
 
 
