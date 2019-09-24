@@ -21,7 +21,8 @@ public class Main {
 
         System.out.println("what is your name?");
         name = keyboard.nextLine();
-        
+        System.out.println("what is your height only in (inches)?");
+
 
 
 
