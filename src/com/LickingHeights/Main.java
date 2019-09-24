@@ -25,6 +25,9 @@ public class Main {
         inches = keyboard.nextInt();
         meter = inches *(0.02456f);
         System.out.println("what is your weight only in (pound)?");
+        pound = keyboard.nextInt();
+        kilograms = pound *(0.453592f);
+
 
 
 
