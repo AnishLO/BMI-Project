@@ -27,6 +27,8 @@ public class Main {
         System.out.println("what is your weight only in (pound)?");
         pound = keyboard.nextInt();
         kilograms = pound *(0.453592f);
+        System.out.println("the total for your BMI is +(total)");
+
 
 
 
