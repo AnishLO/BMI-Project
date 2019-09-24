@@ -19,6 +19,9 @@ public class Main {
         //Initializing
         keyboard = new Scanner(System.in);
 
+        System.out.println("what is your name?");
+
+
 
 
 
